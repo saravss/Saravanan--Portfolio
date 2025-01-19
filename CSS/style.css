@@ -1,0 +1,12 @@
+body{
+    font-family: "Poppins", sans-serif;
+  }
+.banner{
+  background-image: url(../images/top-view-desk-dark-concept-with-copy-space.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 250px 0px;
+  color:white;
+}
+
+ 
